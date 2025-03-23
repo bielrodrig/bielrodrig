@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou em busca de emprego na área
+- 🔭 Estou em busca do primeiro emprego na área de TI
 - 🌱 Estudando Java 
 - 💬 Contate-me no email: gabrielferreirarodrigues27@gmail.com
 
