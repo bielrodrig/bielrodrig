@@ -46,8 +46,10 @@ Atualmente, estou focado em Java e Spring Boot, buscando aprofundar meus conheci
 <h2 align="left">📞 Entre em contato comigo! </h2>
 
 
-<div align="left">
-  <a href="www.linkedin.com/in/gabriel-ferreira-rodrigues-546126287"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badg" height="35" alt="linkedin logo"  /></a>
+<div> 
+  <a href = "mailto:gabrielferreirarodrigues27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/gabriel-ferreira-rodrigues-546126287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 ###
