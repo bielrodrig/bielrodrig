@@ -12,7 +12,7 @@ Atualmente, estou focado em Java e Spring Boot, buscando aprofundar meus conheci
 
 ###
 
-<img align="right" height="150" src=""  />
+
 
 ###
 <h2 align="left">💻 Técnologias que eu uso!! </h2>
@@ -47,7 +47,7 @@ Atualmente, estou focado em Java e Spring Boot, buscando aprofundar meus conheci
 
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badg" height="35" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/gabriel-ferreira-rodrigues-546126287"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badg" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
