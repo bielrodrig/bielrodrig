@@ -1,7 +1,7 @@
 <h2 align="left">👋 Olá! Meu nome é Gabriel Rodrigues !!</h2>
 
 <h7 align="left">Sou um desenvolvedor Full Stack em constante aprendizado e apaixonado por tecnologia! 
-Atualmente, estou focado em Java e Spring Boot, buscando aprofundar meus conhecimentos em desenvolvimento Back-end enquanto continuo aprimorando minhas habilidades no Front-end. Estou à procura da minha primeira oportunidade de estágio em TI para ganhar experiência prática e contribuir com projetos reais!</h3>
+Atualmente, estou focando em Java e Spring Boot, buscando aprofundar meus conhecimentos em desenvolvimento Back-end enquanto continuo aprimorando minhas habilidades no Front-end. Estou à procura da minha primeira oportunidade de estágio em TI para ganhar experiência prática e contribuir com projetos reais!</h3>
 
 ###
 ###
